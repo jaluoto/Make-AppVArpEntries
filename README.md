@@ -1,7 +1,7 @@
 # Make-AppVArpEntries
 A PowerShell script to create Uninstall registry entries for installed App-V packages. 
 
-Makes App-V packages visible and uninstallable from the Programs and Features a.k.a Add/Remove Programs a.k.a ARP window.
+Makes App-V packages visible and uninstallable from the Programs and Features a.k.a Add/Remove Programs a.k.a ARP menu.
 
 ## What's the use case?
 
