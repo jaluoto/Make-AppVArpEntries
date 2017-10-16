@@ -10,6 +10,6 @@ Makes App-V packages visible and uninstallable from the Programs and Features a.
 
 ## How to use
 
-1. Run Make-AppVArpEntries.ps1 manually in elevated session or
-2. Use the included installer to create a Scheduled Task that triggers the script automatically after each installation or removal of an App-V package.
+1. Run Make-AppVArpEntries.ps1 manually in elevated session to update the registry entries once or
+2. Use the included install script to create a Scheduled Task that triggers the script automatically after each installation and removal of an App-V package.
 
